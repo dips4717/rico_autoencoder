@@ -1,0 +1,17 @@
+{
+  "ancestors": [
+    "android.widget.FrameLayout",
+    "android.view.ViewGroup",
+    "android.view.View",
+    "java.lang.Object"
+  ],
+  "class": "com.android.internal.policy.PhoneWindow$DecorView",
+  "bounds": [
+    0,
+    0,
+    0,
+    0
+  ],
+  "clickable": false,
+  "children": []
+}
